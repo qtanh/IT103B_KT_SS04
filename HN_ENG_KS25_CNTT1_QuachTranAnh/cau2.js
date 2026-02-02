@@ -9,6 +9,9 @@ for(let i=1; i<=50; i++){
         console.log(`${i} - Fizz`);
         total +=i;
         
+    }esle{
+        console.log(i);
+        
     }
 }
 console.log("Total: ",total);
